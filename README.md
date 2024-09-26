@@ -16,7 +16,7 @@
 # LLM Math Scientist
 
 
-For now, this is project is just a CLI for automatically generating novel sequence formulas and plotting them. You can set parameters and search for new recursive sequences, and quickly look at 100s of plots to find interesting ones! No LLMs are involved yet.
+For now, this is project is just a CLI for automatically generating novel sequence formulas and plotting them. LLMs will be added later to generate sequence ideas and judge them. You can set parameters and search for new recursive sequences, and quickly look at 100s of plots to find interesting ones!
 
 ## Explanation of sequence generation
 
